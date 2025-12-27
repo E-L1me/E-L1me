@@ -1,4 +1,4 @@
-# About Me
+# About Me (Outdated)
 - Python, Java, C++, Bash, JS, TS, 
 - Libraries including NumPy, OpenCV, TensorFlow, Pandas, SciPy, MatPlotLib, PsychoPy
 - 🔭 Currently exploring chip design and nonlinear 3d printed custom sensors for control of soft robotic actuators
